@@ -86,16 +86,16 @@ npm start
 
 ## Folder Structure
 
-├── backend/             # Backend Node.js/Express application
-│   ├── controllers/     # Route controllers
-│   ├── models/          # Database models
-│   ├── routes/          # API routes
-│   ├── config/          # Configuration files
-│   └── server.js        # Express application entry point
-├── frontend/            # Frontend React.js application
-│   ├── public/          # Public assets
-│   ├── src/             # Source code
-│   ├── components/      # React components
-│   ├── pages/           # Application pages
-│   ├── store/           # Redux store configuration
-└── ├── App.js           # Main React application component
+├── backend/             # Backend Node.js/Express application  
+│   ├── controllers/     # Route controllers  
+│   ├── models/          # Database models  
+│   ├── routes/          # API routes  
+│   ├── config/          # Configuration files  
+│   └── server.js        # Express application entry point  
+├── frontend/            # Frontend React.js application  
+│   ├── public/          # Public assets  
+│   ├── src/             # Source code  
+│   ├── components/      # React components  
+│   ├── pages/           # Application pages  
+│   ├── store/           # Redux store configuration  
+└── ├── App.js           # Main React application component  
