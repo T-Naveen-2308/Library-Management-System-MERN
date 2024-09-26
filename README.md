@@ -85,7 +85,7 @@ npm start
 6. **Open your browser and visit http://localhost:3000 to view the application.**
 
 ## Folder Structure
-
+```
 ├── backend/             # Backend Node.js/Express application  
 │   ├── controllers/     # Route controllers  
 │   ├── models/          # Database models  
@@ -99,3 +99,4 @@ npm start
 │   ├── pages/           # Application pages  
 │   ├── store/           # Redux store configuration  
 └── ├── App.js           # Main React application component  
+```
